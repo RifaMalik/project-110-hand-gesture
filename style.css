@@ -1,0 +1,12 @@
+body{
+    color: black;
+    background-color: lightsalmon;
+}
+span{
+    font-size: 30px;
+}
+#camera,#result{
+    border: 2px dashed black;
+    width: 250px;
+    height: 300px;
+}
